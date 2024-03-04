@@ -1,2 +1,3 @@
 # to-do-list-app
-To do list app created using html , css and javascript.
+To DO Application as practice of my javascript learing.
+
